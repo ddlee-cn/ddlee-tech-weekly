@@ -6,7 +6,7 @@
   <link href="/tech-weekly/atom.xml" rel="self"/>
   
   <link href="http://ddlee.cn/tech-weekly/"/>
-  <updated>2018-10-15T07:56:23.080Z</updated>
+  <updated>2018-10-22T14:26:07.312Z</updated>
   <id>http://ddlee.cn/tech-weekly/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[ddlee-weekly]ddlee每周分享#005</title>
+    <link href="http://ddlee.cn/tech-weekly/2018/10/22/ddlee-weekly-ddlee%E6%AF%8F%E5%91%A8%E5%88%86%E4%BA%AB-005/"/>
+    <id>http://ddlee.cn/tech-weekly/2018/10/22/ddlee-weekly-ddlee每周分享-005/</id>
+    <published>2018-10-22T14:21:52.000Z</published>
+    <updated>2018-10-22T14:26:07.312Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Blog-Post-博文"><a href="#Blog-Post-博文" class="headerlink" title="Blog Post/博文"></a>Blog Post/博文</h2><p><strong><a href="https://www.wsj.com/articles/what-i-loved-about-paul-allen-1539862016" target="_blank" rel="noopener">Bill Gates: How Paul Allen Changed My Life</a></strong></p><blockquote><p>很抱歉这里提供的链接需要订阅才能阅读，但实在是一篇值得想法设法去读的文章。文章里令我最印象深刻的地方是，Paul告诉Bill，”This is happening without us!”</p></blockquote><p><strong><a href="http://andrewsforge.com/article/python-new-package-landscape/" target="_blank" rel="noopener">Python new package landscape</a></strong></p><blockquote><p>本文从比较高的角度总结了近年来基于PyPI的Python工具包演变过程，分依赖管理、项目结构和分发等方面讨论了为统一和便利这些过程所作出的努力。对于使用者来说，我仍然推荐Pipenv来管理依赖和组织自己的项目，我认为这也是Reproducible Research的一部分。</p></blockquote><p><strong><a href="https://stratechery.com/2018/data-factories/" target="_blank" rel="noopener">Data Factories</a></strong></p><blockquote><p>Ben Thompson在这篇文章里阐述了一个很有启发性的观点，像Facebook和Google这样的超级整合者实际上是“数据工厂”，他们把用户的原始数据整理为可用的形式，一方面用于提升自己的产品，另一方面为广告商所用。进一步地，他认为立法者应该从用户隐私方面作出的努力是使用户从工厂方了解他们的数据被加工成了什么样子，之后才做决定是否允许这样的制作过程。在一定程度上，对于超级公司的用户来说处于一种囚徒困境中：为自己的隐私设限或是争取需要付出额外的成本，但集体的漠视会让超级公司掌握越来越多的话语权，尽管他们并非站在跟用户对立的立场上。对于立法者，则要帮助用户厘清这一边界。</p></blockquote><p><strong><a href="https://codewithoutrules.com/2018/10/10/beyond-senior-software-engineer/" target="_blank" rel="noopener">The next career step for Senior Software Engineers (that isn’t management)</a></strong></p><blockquote><p>从Implementor到Solver再到Finder，一个工程师的成长之路，而其他职业、乃至人自身各个方面，都是类似的成长路径。</p></blockquote><p><strong><a href="https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/" target="_blank" rel="noopener">Jupyter, Mathematica, and the Future of the Research Paper</a></strong></p><blockquote><p>作者指出，在科学研究领域，专有软件Mathematica式微，开源的Jupyter崛起的原因不在于技术因素，而在于社会因素：Jupyter的模型鼓励分享，而Mathematica注重封闭和保护。毕竟，在攀登科学顶峰的道路上，合作永远比竞争更重要。Reproducible Research是一个越来越成为共识的准则，在各个领域，一套成熟的基于开源工具的成果分享标准迟早会被建立起来。在此，也向使用书信交流想法和证明过程的数学家们致敬。</p></blockquote><h2 id="Apps-应用推荐"><a href="#Apps-应用推荐" class="headerlink" title="Apps/应用推荐"></a>Apps/应用推荐</h2><p><strong><a href="https://www.foldnfly.com/" target="_blank" rel="noopener">Fold N Fly</a></strong></p><blockquote><p>介绍了数种纸飞机的折叠方法</p></blockquote><h2 id="Tutorials-教程"><a href="#Tutorials-教程" class="headerlink" title="Tutorials/教程"></a>Tutorials/教程</h2><p><strong><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank" rel="noopener">EbookFoundation/free-programming-books</a></strong></p><blockquote><p>收集了数种网络上可以找到的免费技术类电子书</p></blockquote><hr><h4 id="这是啥？"><a href="#这是啥？" class="headerlink" title="这是啥？"></a>这是啥？</h4><p>ddlee weekly汇总每周我认为值得分享的信息，以“原链接+评论”的方式呈现，分为博文、开源项目、教程资源、技术简讯、应用推荐等版块，关注的主要方向为AI、计算机视觉、Android、Linux及泛互联网话题。</p><h4 id="什么时候更新？"><a href="#什么时候更新？" class="headerlink" title="什么时候更新？"></a>什么时候更新？</h4><p>无特殊情况时，每周日晚更新。</p><h4 id="如何订阅？"><a href="#如何订阅？" class="headerlink" title="如何订阅？"></a>如何订阅？</h4><p>RSS Feed地址为<a href="http://feeds.feedburner.com/ddlee-weekly" target="_blank" rel="noopener">http://feeds.feedburner.com/ddlee-weekly</a>或<a href="https://ddlee.cn/tech-weekly/atom.xml">https://ddlee.cn/tech-weekly/atom.xml</a>，您也可以到<a href="https://ddlee.cn/tech-weekly/about/">关于</a>页面登记邮箱，更新会在发布当日推送。</p>]]></content>
+    
+    <summary type="html">
+    
+      Bill Gates缅怀Paul Allen，Python工具包管理，Jupyter与可复现研究等
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>[ddlee-weekly]ddlee每周分享#004</title>
