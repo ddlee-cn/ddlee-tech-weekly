@@ -6,7 +6,7 @@
   <link href="/tech-weekly/atom.xml" rel="self"/>
   
   <link href="http://ddlee.cn/tech-weekly/"/>
-  <updated>2018-12-11T04:10:51.978Z</updated>
+  <updated>2018-12-17T13:37:28.571Z</updated>
   <id>http://ddlee.cn/tech-weekly/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[ddlee-weekly]ddlee每周分享#013</title>
+    <link href="http://ddlee.cn/tech-weekly/2018/12/17/ddlee-weekly-ddlee%E6%AF%8F%E5%91%A8%E5%88%86%E4%BA%AB-013/"/>
+    <id>http://ddlee.cn/tech-weekly/2018/12/17/ddlee-weekly-ddlee每周分享-013/</id>
+    <published>2018-12-17T13:13:34.000Z</published>
+    <updated>2018-12-17T13:37:28.571Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Blog-Post-博文"><a href="#Blog-Post-博文" class="headerlink" title="Blog Post/博文"></a>Blog Post/博文</h2><p><strong><a href="http://aiindex.org" target="_blank" rel="noopener">Artificial Intelligence Index Report 2018</a></strong></p><blockquote><p>今年的AI Index报告，可快速翻阅，亮点不多。唯一令我印象深刻的是各地区研究领域分布的五星图变化。</p></blockquote><p><strong><a href="https://medium.com/intuitionmachine/achieving-fake-explanations-in-ai-5e63b289a3ef" target="_blank" rel="noopener">Fake Intuitive Explanations in AI – Intuition Machine – Medium</a></strong></p><blockquote><p>这篇文章提供的视角是商业性的：我们寻求对深度网络模型的解释，很大程度上是建立信任的需要，从这个意义上，很多所谓解释则是跳过了解释本身而直接完成建立信任的使命。但对于研究来讲，追求解释性则远不止于信任，而是可控，或者完美意义上的描述或认知。正如多伊奇在《真实世界的脉络》里强调的，对于科学理论的提供解释和提供预测，前者更为本质和目的，后者只是副产品。</p></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><h2 id="Open-Source-开源项目"><a href="#Open-Source-开源项目" class="headerlink" title="Open Source/开源项目"></a>Open Source/开源项目</h2><p><strong><a href="https://www.eff.org/ai/metrics" target="_blank" rel="noopener">AI Progress Measurement</a></strong></p><blockquote><p>一个追踪人工智能领域各任务研究进展的开源项目，偏重自然语言处理和强化学习，可贵处是通过notebook发布和更新。</p></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><h2 id="Apps-应用推荐"><a href="#Apps-应用推荐" class="headerlink" title="Apps/应用推荐"></a>Apps/应用推荐</h2><p><strong><a href="https://github.com/borntyping/python-colorlog" target="_blank" rel="noopener">borntyping/python-colorlog</a></strong></p><blockquote><p>一个使Log更Fancy的小工具，可以用于替代内建的logging模块。</p></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><h2 id="Tutorials-教程"><a href="#Tutorials-教程" class="headerlink" title="Tutorials/教程"></a>Tutorials/教程</h2><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><h2 id="News-快讯"><a href="#News-快讯" class="headerlink" title="News/快讯"></a>News/快讯</h2><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><p><strong><a href=""></a></strong></p><blockquote></blockquote><hr><h4 id="这是啥？"><a href="#这是啥？" class="headerlink" title="这是啥？"></a>这是啥？</h4><p>ddlee weekly汇总每周我认为值得分享的信息，以“原链接+评论”的方式呈现，分为博文、开源项目、教程资源、技术简讯、应用推荐等版块，关注的主要方向为AI、计算机视觉、Android、Linux及泛互联网话题。</p><h4 id="什么时候更新？"><a href="#什么时候更新？" class="headerlink" title="什么时候更新？"></a>什么时候更新？</h4><p>无特殊情况时，每周日晚更新。</p><h4 id="如何订阅？"><a href="#如何订阅？" class="headerlink" title="如何订阅？"></a>如何订阅？</h4><p>RSS Feed地址为<a href="http://feeds.feedburner.com/ddlee-weekly" target="_blank" rel="noopener">http://feeds.feedburner.com/ddlee-weekly</a>或<a href="https://ddlee.cn/tech-weekly/atom.xml">https://ddlee.cn/tech-weekly/atom.xml</a>，您也可以到<a href="https://ddlee.cn/tech-weekly/about/">关于</a>页面登记邮箱，更新会在发布当日推送。</p>]]></content>
+    
+    <summary type="html">
+    
+      AI-Index报告，log上色工具，深度模型的解释性问题等
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>[ddlee-weekly]ddlee每周分享#012</title>
