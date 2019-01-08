@@ -6,7 +6,7 @@
   <link href="/tech-weekly/atom.xml" rel="self"/>
   
   <link href="http://ddlee.cn/tech-weekly/"/>
-  <updated>2019-01-01T11:29:39.477Z</updated>
+  <updated>2019-01-08T18:05:49.765Z</updated>
   <id>http://ddlee.cn/tech-weekly/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[ddlee-weekly]ddlee每周分享#016</title>
+    <link href="http://ddlee.cn/tech-weekly/2019/01/09/ddlee-weekly-ddlee%E6%AF%8F%E5%91%A8%E5%88%86%E4%BA%AB-016/"/>
+    <id>http://ddlee.cn/tech-weekly/2019/01/09/ddlee-weekly-ddlee每周分享-016/</id>
+    <published>2019-01-08T17:59:58.000Z</published>
+    <updated>2019-01-08T18:05:49.765Z</updated>
+    
+    <content type="html"><![CDATA[<p>进入考试周后生活稍稍有些无序，很抱歉迟到了一些。</p><h2 id="Open-Source-开源项目"><a href="#Open-Source-开源项目" class="headerlink" title="Open Source/开源项目"></a>Open Source/开源项目</h2><p><strong><a href="https://github.com/zalandoresearch/flair" target="_blank" rel="noopener">zalandoresearch/flair</a></strong><br>一个基于PyTorch的NLP库，在多种任务上实现了当前最佳的结果。</p><h2 id="Apps-应用推荐"><a href="#Apps-应用推荐" class="headerlink" title="Apps/应用推荐"></a>Apps/应用推荐</h2><p><strong><a href="https://github.com/TheYahya/sherlock" target="_blank" rel="noopener">TheYahya/sherlock</a></strong><br>一个发现社交网络（当然主要是英文网站）上指定用户名的小工具。我试了下“ddlee”，发现在37个网站上都有，而且绝大部分都不是我，很伤心。</p><h2 id="Tutorials-教程"><a href="#Tutorials-教程" class="headerlink" title="Tutorials/教程"></a>Tutorials/教程</h2><p><strong><a href="https://realpython.com/python-string-formatting/" target="_blank" rel="noopener">Python String Formatting Best Practices – Real Python</a></strong><br>介绍了Python中字符串填充的各种方式。本人而言最常用的是str.format()，但看来高版本的f-string更具有吸引力。作者还贴心地给出了选择框图。</p><h2 id="News-快讯"><a href="#News-快讯" class="headerlink" title="News/快讯"></a>News/快讯</h2><p><strong><a href="https://www.apple.com/newsroom/2019/01/letter-from-tim-cook-to-apple-investors/" target="_blank" rel="noopener">Letter from Tim Cook to Apple investors</a></strong><br>信中表示由于大中华区的经济形势，苹果调低了iPhone的销量预期，此举导致股价大跌。</p><p><strong><a href="https://scratch.mit.edu/discuss/topic/326861/" target="_blank" rel="noopener">Scratch - Imagine, Program, Share</a></strong><br>MIT为儿童设计的编程语言Scratch发布了3.0版本。最初听说是CS50的导论课程。</p><hr><h4 id="这是啥？"><a href="#这是啥？" class="headerlink" title="这是啥？"></a>这是啥？</h4><p>ddlee weekly汇总每周我认为值得分享的信息，以“原链接+评论”的方式呈现，分为博文、开源项目、教程资源、技术简讯、应用推荐等版块，关注的主要方向为AI、计算机视觉、Android、Linux及泛互联网话题。</p><h4 id="什么时候更新？"><a href="#什么时候更新？" class="headerlink" title="什么时候更新？"></a>什么时候更新？</h4><p>无特殊情况时，每周日晚更新。</p><h4 id="如何订阅？"><a href="#如何订阅？" class="headerlink" title="如何订阅？"></a>如何订阅？</h4><p>RSS Feed地址为<a href="http://feeds.feedburner.com/ddlee-weekly" target="_blank" rel="noopener">http://feeds.feedburner.com/ddlee-weekly</a>或<a href="https://ddlee.cn/tech-weekly/atom.xml">https://ddlee.cn/tech-weekly/atom.xml</a>，您也可以到<a href="https://ddlee.cn/tech-weekly/about/">关于</a>页面登记邮箱，更新会在发布当日推送。</p>]]></content>
+    
+    <summary type="html">
+    
+      Python中字符串填充的四种方式、儿童编程语言Scratch发布3.0等
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>[ddlee-weekly]ddlee每周分享#015</title>
