@@ -6,7 +6,7 @@
   <link href="/tech-weekly/atom.xml" rel="self"/>
   
   <link href="http://ddlee.cn/tech-weekly/"/>
-  <updated>2019-01-22T14:40:36.043Z</updated>
+  <updated>2019-04-01T17:36:34.713Z</updated>
   <id>http://ddlee.cn/tech-weekly/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[ddlee-weekly]ddlee每周分享#019</title>
+    <link href="http://ddlee.cn/tech-weekly/2019/04/01/ddlee-weekly-ddlee%E6%AF%8F%E5%91%A8%E5%88%86%E4%BA%AB-019/"/>
+    <id>http://ddlee.cn/tech-weekly/2019/04/01/ddlee-weekly-ddlee每周分享-019/</id>
+    <published>2019-04-01T15:09:17.000Z</published>
+    <updated>2019-04-01T17:36:34.713Z</updated>
+    
+    <content type="html"><![CDATA[<p> 写在前面：</p><p> 很抱歉，因为考试周、过年、换新环境以及忙，每周分享拖更了长达两个月的时间。但我依旧还是想坚持这个事情，所以这不是一份停更的通知，而是新的一期，尽管里面的文章很多并不够新了。</p><p> 我还是想再谈一下我为什么要维护这样一个博客，在WWW式微、注意力被建起围墙的APP分割的时代。</p><p> 我想来想去，从中文技术内容的生态、到大众阅读习惯、再到内容的编辑与分发，但浮现在我脑海中最核心的一个理由是，我相信好内容值得更多的人读。</p><p> 但，好内容也应该被保护。而不是被抄袭、篡改，博得流量，为广告做嫁衣。因此我选择了这样的形式——分享原文链接+评论，并通过邮件订阅和RSS订阅两种极为开放的方式分发。我写的评论其实不好，但若能帮助别人注意到某些高质量的内容，那便是十分美好了。</p><p> 鉴于我的工作周期和时间，仍然会在周一周二这两天择时更新。感谢您的关注。</p><h2 id="Blog-Post-博文"><a href="#Blog-Post-博文" class="headerlink" title="Blog Post/博文"></a>Blog Post/博文</h2><p><strong><a href="https://www.ben-evans.com/benedictevans/2019/3/13/0mboxl0imfh636ggky829vnweu2qpv" target="_blank" rel="noopener">Microsoft, Facebook, trust and privacy</a></strong><br>很有趣的视角：Facebook上充斥的假新闻，跟Windows上曾经流行的病毒和木马程序是一样的模式，而两家公司的处理方式也是类似的。</p><p><strong><a href="http://tonsky.me/blog/github-redesign/" target="_blank" rel="noopener">Redesigning Github repository page</a></strong><br>对GitHub用户页面的重新设计，条分缕析，虽然每一步都是一小点，但对比前后变化确实清爽高效很多，可以管窥设计师思维。</p><p><strong><a href="https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html" target="_blank" rel="noopener">The MIT License, Line by Line</a></strong><br>对MIT许可协议的深度解读，开源协议的设计确实是很精妙的工作。</p><h2 id="Open-Source-开源项目"><a href="#Open-Source-开源项目" class="headerlink" title="Open Source/开源项目"></a>Open Source/开源项目</h2><p><strong><a href="https://github.com/TuSimple/simpledet" target="_blank" rel="noopener">TuSimple/simpledet</a></strong><br>TuSimple开源的基于MXNet的检测框架，整体上借鉴Detectron的痕迹非常明显（Detectron基于Facebook的Caffe2，后者现已并入PyTorch）。不管怎么说，还是开心和感激的。</p><h2 id="Apps-应用推荐"><a href="#Apps-应用推荐" class="headerlink" title="Apps/应用推荐"></a>Apps/应用推荐</h2><p><strong><a href="https://www.wowa.me/" target="_blank" rel="noopener">wowamusic</a></strong><br>不必为版权问题发愁（Royal-Free）的音乐收集站点。</p><p><strong><a href="https://mybrandnewlogo.com" target="_blank" rel="noopener">My Brand New Logo — My Brand New Logo – logo maker | create your own logo</a></strong><br>在线生成个性logo，可以个性化调整并能多格式导出，对英文的支持不错。logo一般是要以矢量图存在，想必需要很多hack才能做得如此可用的产品。</p><h2 id="Tutorials-教程"><a href="#Tutorials-教程" class="headerlink" title="Tutorials/教程"></a>Tutorials/教程</h2><p><strong><a href="https://realpython.com/intro-to-pyenv/" target="_blank" rel="noopener">Managing Multiple Python Versions With pyenv – Real Python</a></strong><br>pyenv可以作为pipenv的补充，管理全局的python版本。</p><p><strong><a href="https://realpython.com/python-super/" target="_blank" rel="noopener">Supercharge Your Classes With Python super() – Real Python</a></strong><br>讲解了Python类定义中super()的用法，收藏备查。</p><p><strong><a href="http://josh-tobin.com/troubleshooting-deep-neural-networks" target="_blank" rel="noopener">Troubleshooting Deep Neural Networks</a></strong><br>一份深度网络模型的调试指南。建议的使用方法是通读后把握调试环节的大体思路，遇到问题时再参考其列出的常见问题清单（一次性细读容易过载反而得到很少）。</p><p><strong><a href="https://hacker-tools.github.io" target="_blank" rel="noopener">Hacker Tools</a></strong><br>“黑客”一词在中文环境里被相当地污名化了，与“鼓捣电脑的”构成大众对IT学生/从业者的刻板印象之两端：前者施加道德之咒，后者则是市侩心理的投射。在堪当黑客精神源泉之一的MIT开设的这一课程中，老师们整理了Hacker常用的工具，主题包括命令行工具、文本编辑器、远程主机管理等，这十几个小时的精力投入实在非常值得。顺便，推荐《黑客与画家》来了解Hacker文化。</p><h2 id="News-快讯"><a href="#News-快讯" class="headerlink" title="News/快讯"></a>News/快讯</h2><p><strong><a href="https://www.thurrott.com/windows/windows-10/196830/python-lands-on-the-windows-10-app-store" target="_blank" rel="noopener">Python Lands on the Windows 10 App Store - Thurrott.com</a></strong><br>Python 3.7上架了Windows官方的应用商店。</p><hr><h4 id="这是啥？"><a href="#这是啥？" class="headerlink" title="这是啥？"></a>这是啥？</h4><p>ddlee weekly汇总每周我认为值得分享的信息，以“原链接+评论”的方式呈现，分为博文、开源项目、教程资源、技术简讯、应用推荐等版块，关注的主要方向为AI、计算机视觉、Android、Linux及泛互联网话题。</p><h4 id="什么时候更新？"><a href="#什么时候更新？" class="headerlink" title="什么时候更新？"></a>什么时候更新？</h4><p>每周周一或周二</p><h4 id="如何订阅？"><a href="#如何订阅？" class="headerlink" title="如何订阅？"></a>如何订阅？</h4><p>RSS Feed地址为<a href="https://ddlee.cn/tech-weekly/atom.xml">https://ddlee.cn/tech-weekly/atom.xml</a>，您也可以到<a href="https://ddlee.cn/tech-weekly/about/">关于</a>页面登记邮箱，更新会在发布当日推送。</p>]]></content>
+    
+    <summary type="html">
+    
+      复更、重新设计GitHub、深度学习模型调试、Hacker工具箱等
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>[ddlee-weekly]ddlee每周分享#018</title>
