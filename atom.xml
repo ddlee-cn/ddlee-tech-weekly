@@ -6,7 +6,7 @@
   <link href="/tech-weekly/atom.xml" rel="self"/>
   
   <link href="http://ddlee.cn/tech-weekly/"/>
-  <updated>2019-04-01T17:36:34.713Z</updated>
+  <updated>2019-04-15T07:21:26.489Z</updated>
   <id>http://ddlee.cn/tech-weekly/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[ddlee-weekly]ddlee每周分享#020</title>
+    <link href="http://ddlee.cn/tech-weekly/2019/04/15/ddlee-weekly-ddlee%E6%AF%8F%E5%91%A8%E5%88%86%E4%BA%AB-020/"/>
+    <id>http://ddlee.cn/tech-weekly/2019/04/15/ddlee-weekly-ddlee每周分享-020/</id>
+    <published>2019-04-15T07:15:49.000Z</published>
+    <updated>2019-04-15T07:21:26.489Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Blog-Post-博文"><a href="#Blog-Post-博文" class="headerlink" title="Blog Post/博文"></a>Blog Post/博文</h2><p><strong><a href="https://a16z.com/2019/02/22/humanity-ai-better-together/" target="_blank" rel="noopener">Humanity + AI: Better Together</a></strong><br>对人工智能应用前景相对乐观的文章。</p><p><strong><a href="https://pmac.io/2019/02/multi-stage-dockerfile-and-python-virtualenv/" target="_blank" rel="noopener">Multi-Stage Dockerfiles and Python Virtualenvs · pmac.io</a></strong><br>讲解如何利用Dockerfile的多阶段支持减小生产环境的体积，同时跟开发环境的Python依赖保持一致。</p><h2 id="Apps-应用推荐"><a href="#Apps-应用推荐" class="headerlink" title="Apps/应用推荐"></a>Apps/应用推荐</h2><p><strong><a href="https://onepagelove.com/" target="_blank" rel="noopener">One Page Love - One Page Website Inspiration and Templates</a></strong><br>单页网站的模版收集站点，看上去效果都还不错。闲时折腾一下。</p><h2 id="Tutorials-教程"><a href="#Tutorials-教程" class="headerlink" title="Tutorials/教程"></a>Tutorials/教程</h2><p><strong><a href="https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html" target="_blank" rel="noopener">the ggplot flipbook</a></strong><br>制作精良的ggplot教程，图文并茂，条分缕析，推荐给R语言爱好者。</p><p><strong><a href="https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b" target="_blank" rel="noopener">Jupyter Lab: Evolution of the Jupyter Notebook</a></strong><br>Jupyter lab比notebook要更进一步，支持高级视图、主题、扩展等，而且基于Web，不受平台限制。有望成为主要工作环境。</p><p><strong><a href="https://realpython.com/intro-to-python-threading/" target="_blank" rel="noopener">An Intro to Threading in Python – Real Python</a></strong><br>Python线程操作的详细教程</p><h2 id="News-快讯"><a href="#News-快讯" class="headerlink" title="News/快讯"></a>News/快讯</h2><p><strong><a href="https://insights.stackoverflow.com/survey/2019" target="_blank" rel="noopener">Stack Overflow Developer Survey 2019</a></strong><br>2019年神奇网站的开发者调查报告。一些地区差异还是蛮有意思的。</p><hr><h4 id="这是啥？"><a href="#这是啥？" class="headerlink" title="这是啥？"></a>这是啥？</h4><p>ddlee weekly汇总每周我认为值得分享的信息，以“原链接+评论”的方式呈现，分为博文、开源项目、教程资源、技术简讯、应用推荐等版块，关注的主要方向为AI、计算机视觉、Android、Linux及泛互联网话题。</p><h4 id="什么时候更新？"><a href="#什么时候更新？" class="headerlink" title="什么时候更新？"></a>什么时候更新？</h4><p>每周周一或周二</p><h4 id="如何订阅？"><a href="#如何订阅？" class="headerlink" title="如何订阅？"></a>如何订阅？</h4><p>RSS Feed地址为<a href="https://ddlee.cn/tech-weekly/atom.xml">https://ddlee.cn/tech-weekly/atom.xml</a>，您也可以到<a href="https://ddlee.cn/tech-weekly/about/">关于</a>页面登记邮箱，更新会在发布当日推送。</p>]]></content>
+    
+    <summary type="html">
+    
+      ggplot教程，Python线程教程，StackOverflow开发者调查报告等
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>[ddlee-weekly]ddlee每周分享#019</title>
@@ -352,24 +370,6 @@
     <summary type="html">
     
       Jupyter Notebbok, Windows95, Python import语句， 五十大MOOC， 英伟达发布RTX系列等
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>[ddlee-weekly]ddlee每周分享#000</title>
-    <link href="http://ddlee.cn/tech-weekly/2018/08/19/%5Bddlee-weekly%5D-ddlee%E6%AF%8F%E5%91%A8%E5%88%86%E4%BA%AB-000/"/>
-    <id>http://ddlee.cn/tech-weekly/2018/08/19/[ddlee-weekly]-ddlee每周分享-000/</id>
-    <published>2018-08-19T08:55:15.000Z</published>
-    <updated>2018-11-11T09:54:31.723Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="这个博客是干嘛的？"><a href="#这个博客是干嘛的？" class="headerlink" title="这个博客是干嘛的？"></a>这个博客是干嘛的？</h4><p>ddlee weekly汇总每周我认为值得分享的信息，以“原链接+评论”的方式呈现，分为博文、开源项目、技术简讯等版块，关注的主要方向为AI、计算机视觉、Android、Linux及泛互联网话题。</p><h4 id="为什么要做这个博客？"><a href="#为什么要做这个博客？" class="headerlink" title="为什么要做这个博客？"></a>为什么要做这个博客？</h4><p>我在讨论<a href="https://blog.ddlee.cn/posts/ad0ff69a/" target="_blank" rel="noopener">信息的处理和转化</a>时，强调将信息内化为己用的一个重要方式是表达。</p><p>表达可以有很多种，比较深层次的是写作和教学，比较浅层的是评论和转述。于是，这个博客即是我分享有趣信息的一个渠道，也可以看作是一个延时性的微博。</p><h4 id="这个博客什么时候更新？"><a href="#这个博客什么时候更新？" class="headerlink" title="这个博客什么时候更新？"></a>这个博客什么时候更新？</h4><p>无特殊情况时，每周日晚更新。</p><h4 id="如何订阅这个博客？"><a href="#如何订阅这个博客？" class="headerlink" title="如何订阅这个博客？"></a>如何订阅这个博客？</h4><p>目前提供的订阅方式是<a href="../atom.xml">RSS</a>，后续会考虑提供E-mail，Telegram等。</p><h4 id="我可以贡献内容吗？"><a href="#我可以贡献内容吗？" class="headerlink" title="我可以贡献内容吗？"></a>我可以贡献内容吗？</h4><p>非常欢迎。你可以在这个<a href="https://github.com/ddlee96/ddlee-tech-weekly/issues/1" target="_blank" rel="noopener">GitHub Repo</a>下评论，也可以通过可以直接联系到我的途径（邮件等）跟我沟通。</p>]]></content>
-    
-    <summary type="html">
-    
-      创刊号：关于本博客的信息
     
     </summary>
     
